@@ -1,5 +1,5 @@
 <h1>Hi there 👋, I'm Abhishek Ranga</h1>
-<p><em>🌱 I'm currently learning <strong>Data Structures and Algorithms with C++ and practicing Full Stack Web Development using MERN stack</strong>.</em></p>
+<p><em>🌱 I'm currently learning <strong>Data Structures and Algorithms with C++ and practicing Full Stack Web Dev using MERN stack</strong>.</em></p>
 <p><em>📫 How to reach me: abhishek07122004@gmail.com</em></p>
 <h1>🌐 Socials:</h1>
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhishekranga/)
